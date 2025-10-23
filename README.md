@@ -1,4 +1,3 @@
-- 👋 I partner with investment management teams to streamline their processes for performance analysis, data governance, asset allocation, and risk management.
 - 🧩 My core strength lies in bridging the gap between complex business needs and practical data and technology solutions.
 - 👀 I am interested in data, finance and coding
 - 🌱 I enjoy researching web-based tools for coding and building projects.
